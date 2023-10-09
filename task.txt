@@ -1,0 +1,12 @@
+--Day1
+---create a git repository
+---create git configuration for name and email
+---create a file and save it
+---check your git status
+---push the file to staging area
+---commit the file to local dorectory
+---check the log of the file 
+---check for update or add content in the file
+---check which like git repostory have store
+---check file in the folder that even git repository have not stored
+---
