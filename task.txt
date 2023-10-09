@@ -9,4 +9,17 @@
 ---check for update or add content in the file
 ---check which like git repostory have store
 ---check file in the folder that even git repository have not stored
----
+---create a remote repo in github and connect it with your gitbash
+--- check if its accept the connection like using  -v
+---push your local file to remote github
+---display all branches
+---create a new branch
+---switch to the created branch
+--create a new file .txt
+--add,commit,get status and log
+--- display all branches
+--- display accepted git files for a specific branch
+---switch to master
+---merge master with the created branch
+
+--- display accepted git files for a master
